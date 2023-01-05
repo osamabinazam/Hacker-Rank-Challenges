@@ -40,7 +40,6 @@ class Result {
         }
         System.out.println("");
     }
-
 }
 
 public class ReverseArray {
